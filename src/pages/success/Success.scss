@@ -1,0 +1,15 @@
+.success {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  .animation {
+    margin-top: 30vh;
+    height: 300px;
+    width: 200px;
+  }
+  .text {
+    color: white;
+  }
+}
